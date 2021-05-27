@@ -5,7 +5,7 @@
 
 ## Indices
 
-* [API](#Api)
+* [API](#API)
 
   * [Add a new Note](#1-add-a-new-note)
   * [Get a Note By Id](#2-get-a-note-by-id)
@@ -17,7 +17,7 @@
 --------
 
 
-## Api
+## API
 
 
 
