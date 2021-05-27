@@ -1,11 +1,16 @@
 
-# JavaSpring
+# NoteSpring
 
+A simple REST API Built wth **Spring Boot** that saves and fetches data from **MySQl** Database
 
+## Dependencies
+1. Spring Boot
+2. Hibernate
+3. MySQL
 
 ## Indices
 
-* [API](#API)
+* [API Documentation](#API Documentation)
 
   * [Add a new Note](#1-add-a-new-note)
   * [Get a Note By Id](#2-get-a-note-by-id)
@@ -17,7 +22,7 @@
 --------
 
 
-## API
+## API Documentation
 
 
 
